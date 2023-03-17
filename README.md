@@ -25,6 +25,7 @@ Pretty simple, right? Well this is where it gets interesting:
 
 - Once the `sellIn` days is less then zero, `quality` degrades twice as fast.
 - The `quality` of an item is never negative.
+
 - "Aged Brie" actually increases in `quality` the older it gets.
 - The `quality` of an item is never more than `50`.
 - "Sulfuras, Hand of Ragnaros," being a legendary item, never has to be sold nor does it decrease in `quality`.
